@@ -1,5 +1,5 @@
-name: Actions Ecosystem Action Get Latest Tag
-description: Get a latest Git tag.
+name: My fork of the Actions Ecosystem Action Get Latest Tag
+description: Get the latest Git tag.
 author: Actions Ecosystem
 inputs:
   semver_only:
